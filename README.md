@@ -1,1 +1,3 @@
 # EXStoSFZ
+
+this is my first public commit to github.  recently, i translated a python script so one can convert logic exs24 instrumentz to soundfont sfz.  it does not handle all casez but workz sufficiently.  this sloppy code has not yet been cleaned up and assumez use of the juce framework.  more to follow wen i can...
